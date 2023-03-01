@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2022.12.07_HCI mediapipe handTracker 02", "2022.12.07_HCI mediapipe handTracker 02.pyproj", "{AD739FA1-D56E-48E4-81CE-1F645428FA69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD739FA1-D56E-48E4-81CE-1F645428FA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD739FA1-D56E-48E4-81CE-1F645428FA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4363EEF0-DA30-46CA-B08A-B8EB0326AD7C}
+	EndGlobalSection
+EndGlobal
